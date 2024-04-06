@@ -1,0 +1,8 @@
+Necessary factors:
+1. The Fixed Term Parliaments Act 2011 is altered so as to enable a general election in 2023.
+2. There is a political will to hold a general election in 2023.
+
+1. P(The Fixed Term Parliaments Act 2011 is altered so as to enable a general election in 2023)=0.5
+2. P(There is a political will to hold a general election in 2023|The Fixed Term Parliaments Act 2011 is altered so as to enable a general election in 2023)=0.4
+Multiplying out the probabilities: 0.5*0.4=0.2
+0.2

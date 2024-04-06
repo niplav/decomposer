@@ -1,0 +1,16 @@
+Necessary factors:
+1. Doğu Perinçek decides to run in the 2023 Presidential Election.
+2. Voters show increased support for Doğu Perinçek's party policies leading into the election.
+3. Doğu Perinçek manages to build a large popular political movement that can compete with the traditional major parties.
+4. There is no significant political crisis or scandal involving Doğu Perinçek or his party during the election campaign.
+5. Increased voter turnout for Doğu Perinçek's supporters.
+
+1. P(Doğu Perinçek decides to run in the 2023 Presidential Election)=0.70
+2. P(Voters show increased support for Doğu Perinçek's party policies leading into the election|Doğu Perinçek decides to run in the 2023 Presidential Election)=0.30
+3. P(Doğu Perinçek manages to build a large popular political movement that can compete with the traditional major parties|Voters show increased support for Doğu Perinçek's party policies leading into the election, Doğu Perinçek decides to run in the 2023 Presidential Election)=0.20
+4. P(There is no significant political crisis or scandal involving Doğu Perinçek or his party during the election campaign|Doğu Perinçek manages to build a large popular political movement that can compete with the traditional major parties, Voters show increased support for Doğu Perinçek's party policies leading into the election, Doğu Perinçek decides to run in the 2023 Presidential Election)=0.80
+5. P(Increased voter turnout for Doğu Perinçek's supporters|There is no significant political crisis or scandal involving Doğu Perinçek or his party during the election campaign, Doğu Perinçek manages to build a large popular political movement that can compete with the traditional major parties, Voters show increased support for Doğu Perinçek's party policies leading into the election, Doğu Perinçek decides to run in the 2023 Presidential Election)=0.50.
+
+Multiplying out the probabilities: 0.70*0.30*0.20*0.80*0.50=0.0168.
+
+0.0168

@@ -1,0 +1,13 @@
+Necessary factors:
+1. H5N1 mutations allow easy human-to-human transmission.
+2. Global health response measures are not sufficient to contain the spread.
+3. The mortality rate of H5N1 keeps the current rate in humans.
+4. Rapid population spreading of H5N1 virus occurs.
+
+1. P(H5N1 mutations allow easy human-to-human transmission)=0.01
+2. P(Global health response measures are not sufficient to contain the spread|H5N1 mutations allow easy human-to-human transmission)=0.2 
+3. P(The mortality rate of H5N1 keeps the current rate in humans|Global health response measures are not sufficient to contain the spread, H5N1 mutations allow easy human-to-human transmission)=0.8
+4. P(Rapid population spreading of H5N1 virus occurs|The mortality rate of H5N1 keeps the current rate in humans, Global health response measures are not sufficient to contain the spread, H5N1 mutations allow easy human-to-human transmission)=0.1
+
+Multiplying out the probabilities: 0.01*0.2*0.8*0.1=0.0016
+0.0016

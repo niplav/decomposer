@@ -1,0 +1,17 @@
+Necessary factors:
+1. Mansur Yavaş decides to run for presidency.
+2. He successfully wins the nomination from his political party.
+3. His campaign garners sufficient public support and momentum.
+4. His political party garners enough widespread support.
+5. There are no significant scandals or revelations that negatively impact his campaign.
+6. The election is free and fair.
+
+1. P(Mansur Yavaş decides to run for presidency)=0.7
+2. P(He successfully wins the nomination from his political party|Mansur Yavaş decides to run for presidency)=0.8
+3. P(His campaign garners sufficient public support and momentum|He successfully wins the nomination from his political party, Mansur Yavaş decides to run for presidency)=0.7
+4. P(His political party garners enough widespread support|His campaign garners sufficient public support and momentum, He successfully wins the nomination from his political party, Mansur Yavaş decides to run for presidency)=0.65
+5. P(There are no significant scandals or revelations that negatively impact his campaign|His political party garners enough widespread support, His campaign garners sufficient public support and momentum, He successfully wins the nomination from his political party, Mansur Yavaş decides to run for presidency)=0.9
+6. P(The election is free and fair|There are no significant scandals or revelations that negatively impact his campaign, His political party garners enough widespread support, His campaign garners sufficient public support and momentum, He successfully wins the nomination from his political party, Mansur Yavaş decides to run for presidency)=0.6
+
+Multiplying out the probabilities: 0.7*0.8*0.7*0.65*0.9*0.6=0.159012
+0.159012

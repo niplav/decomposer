@@ -1,0 +1,15 @@
+Necessary factors:
+1. The US Government perceives TikTok as a significant and active threat to national security.
+2. The US Government decides that banning TikTok is the effective solution to mitigate the perceived threat.
+3. A legal framework or executive order leading to a ban on TikTok is successfully passed.
+4. No significant domestic or international obstructions prevent the enforcement of the ban. 
+5. Both Google and Apple comply to remove TikTok app from their respective app stores in the US market, and ensure a lack of support for the previously downloaded app.
+  
+1. P(The US Government perceives TikTok as a significant and active threat to national security)=0.2
+2. P(The US Government decides that banning TikTok is the effective solution to mitigate the perceived threat|The US Government perceives TikTok as a significant and active threat to national security)=0.5
+3. P(A legal framework or executive order leading to a ban on TikTok is successfully passed|The US Government decides that banning TikTok is the effective solution to mitigate the perceived threat, The US Government perceives TikTok as a significant and active threat to national security)=0.5
+4. P(No significant domestic or international obstructions prevent the enforcement of the ban|A legal framework or executive order leading to a ban on TikTok is successfully passed, The US Government decides that banning TikTok is the effective solution to mitigate the perceived threat, The US Government perceives TikTok as a significant and active threat to national security)=0.7
+5. P(Both Google and Apple comply to remove TikTok app from their respective app stores in the US market, and ensure a lack of support for the previously downloaded app|No significant domestic or international obstructions prevent the enforcement of the ban, A legal framework or executive order leading to a ban on TikTok is successfully passed, The US Government decides that banning TikTok is the effective solution to mitigate the perceived threat, The US Government perceives TikTok as a significant and active threat to national security)=0.9
+
+Multiplying out the probabilities: 0.2*0.5*0.5*0.7*0.9= 0.0315
+0.0315

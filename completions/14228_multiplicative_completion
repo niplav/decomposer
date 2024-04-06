@@ -1,0 +1,16 @@
+Necessary factors:
+1. Donald Trump is alive and medically fit to run for President.
+2. Donald Trump intends to run for President again.
+3. Donald Trump is still favored among the majority of Republicans or narrative is built for his dominance.
+4. No other strong Republican candidate arises that the party and/or public prefers over Trump.
+5. The prediction markets accurately reflect the political landscape, without any significant bias or manipulation.
+
+1. P(Donald Trump is alive and medically fit to run for President)=0.98 
+2. P(Donald Trump intends to run for President again|Donald Trump is alive and medically fit to run for President)=0.35 
+3. P(Donald Trump is still favored among the majority of Republicans or narrative is built for his dominance|Donald Trump intends to run for President again, Donald Trump is alive and medically fit to run for President)=0.75 
+4. P(No other strong Republican candidate arises that the party and/or public prefers over Trump|Donald Trump is still favored among the majority of Republicans or narrative is built for his dominance, Donald Trump intends to run for President again, Donald Trump is alive and medically fit to run for President)=0.6
+5. P(The prediction markets accurately reflect the political landscape, without any significant bias or manipulation|No other strong Republican candidate arises that the party and/or public prefers over Trump, Donald Trump is still favored among the majority of Republicans or narrative is built for his dominance, Donald Trump intends to run for President again, Donald Trump is alive and medically fit to run for President)=0.85 
+
+Multiplying out the probabilities: 0.98*0.35*0.75*0.6*0.85=0.1417875
+
+0.1417875

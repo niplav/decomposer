@@ -1,0 +1,14 @@
+Necessary factors:
+1. There is a clear successor agreed upon by Erdoğan's party.
+2. Public pressure and sentiment strongly favor abdication.
+3. There is no viable legal or political means for Erdoğan to contest the election result.
+4. There's international pressure for him to concede defeat.
+
+1. P(There is a clear successor agreed upon by Erdoğan's party)=0.7
+2. P(Public pressure and sentiment strongly favor abdication|There is a clear successor agreed upon by Erdoğan's party)=0.65
+3. P(There is no viable legal or political means for Erdoğan to contest the election result|Public pressure and sentiment strongly favor abdication, There is a clear successor agreed upon by Erdoğan's party)=0.6
+4. P(There's international pressure for him to concede defeat|There is no viable legal or political means for Erdoğan to contest the election result, Public pressure and sentiment strongly favor abdication, There is a clear successor agreed upon by Erdoğan's party)=0.75
+
+Multiplying out the probabilities: 0.7*0.65*0.6*0.75=0.19575
+
+0.19575

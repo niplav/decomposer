@@ -1,0 +1,16 @@
+Necessary factors:
+1. Recep Tayyip Erdoğan runs for the 2023 Presidential Election.
+2. Erdoğan continues to have support from AK Party members and the party leadership.
+3. There is a successful election campaign and vote mobilization for Erdoğan.
+4. There is no strong opposition candidate that can outperform Erdoğan.
+5. There are not significant changes in Turkey's political, economical, and social situation that would decrease Erdoğan's popularity.
+
+1. P(Recep Tayyip Erdoğan runs for the 2023 Presidential Election)=0.95
+2. P(Erdoğan continues to have support from AK Party members and the party leadership|Recep Tayyip Erdoğan runs for the 2023 Presidential Election)=0.9
+3. P(There is a successful election campaign and vote mobilization for Erdoğan|Erdoğan continues to have support from AK Party members and the party leadership)=0.85
+4. P(There is no strong opposition candidate that can outperform Erdoğan|There is a successful election campaign and vote mobilization for Erdoğan)=0.6
+5. P(There are not significant changes in Turkey's political, economical, and social situation that would decrease Erdoğan's popularity|There is no strong opposition candidate that can outperform Erdoğan)=0.5
+
+P(Q)= P(X₁) * P(X₂|X₁) * P(X₃|X₁,X₂) * P(X₄|X₁,X₂,X₃) * P(X₅|X₁,X₂,X₃,X₄) = 0.95 * 0.9 * 0.85 * 0.6 * 0.5 = 0.21735 
+
+0.21735

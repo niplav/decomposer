@@ -1,0 +1,13 @@
+Necessary factors:
+1. The FTX Foundation disbursement grants to a recipient.
+2. The grant recipient engages in illegal activity related to the grant or the FTX group of entities.
+3. The illegal activity is discovered and reported to authorities or the FTX Foundation.
+4. Authorities or the FTX Foundation take action to freeze, seize, or demand back the grant funds.
+
+1. P(The FTX Foundation disbursements grants to a recipient)=1 (given)
+2. P(The grant recipient engages in illegal activity|The FTX Foundation disbursements grants to a recipient)=0.01 (uncertainty factor based on average of fraud rate in non-profit sector)
+3. P(The illegal activity is discovered and reported|The recipient engages in illegal activity)=0.2 (estimating a 20% chance that the illegal activity would be discovered and reported)
+4. P(Authorities or the FTX Foundation take action|The illegal activity is discovered and reported)=0.8 (assuming good regulatory oversight and actions taken in case of illegal activity)
+
+Multiplying out the probabilities: 1*0.01*0.2*0.8=0.0016
+0.0016

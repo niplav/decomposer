@@ -1,0 +1,15 @@
+Necessary factors:
+1. A thorough and detailed investigation is conducted into the Wirecard scandal.
+2. Evidence of serious criminal activity (fraud) pertaining to the Wirecard collapse is found against at least one executive.
+3. The executive is charged with the criminal offense.
+4. The executive is found guilty in a court trial.
+5. The executive's sentence includes custody time.
+
+1. P(A thorough and detailed investigation is conducted into the Wirecard scandal)=0.90
+2. P(Evidence of serious criminal activity (fraud) pertaining to the Wirecard collapse is found against at least one executive|A thorough and detailed investigation is conducted into the Wirecard scandal)=0.85
+3. P(The executive is charged with the criminal offense|Evidence of serious criminal activity (fraud) is found against one executive, A thorough and detailed investigation is conducted)=0.90
+4. P(The executive is found guilty in a court trial|The executive is charged with the criminal offense, Evidence of serious criminal activity is found, A thorough investigation is conducted)=0.85
+5. P(The executive's sentence includes custody time|The executive is found guilty in a court trial, The executive is charged, Evidence of serious criminal activity is found, An investigation is conducted)=0.75
+
+Multiplying out the probabilities: 0.90*0.85*0.90*0.85*0.75=0.48454275
+0.48454275

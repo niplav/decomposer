@@ -1,0 +1,17 @@
+Necessary factors:
+1. No global financial crisis occurs in 2023.
+2. There isn't a severe bearish trend in the global stock market.
+3. The US economy grows at a reasonable rate.
+4. Corporate earnings of S&P 500 companies are generally positive.
+5. Inflation and interest rates are not alarmingly high.
+
+1. P(No global financial crisis occurs in 2023)=0.85
+2. P(There isn't a severe bearish trend in the global stock market|No global financial crisis occurs in 2023)=0.8
+3. P(The US economy grows at a reasonable rate|There isn't a severe bearish trend in the global stock market, No global financial crisis occurs in 2023)=0.75
+4. P(Corporate earnings of S&P 500 companies are generally positive|The US economy grows at a reasonable rate, There isn't a severe bearish trend in the global stock market, No global financial crisis occurs in 2023)=0.70
+5. P(Inflation and interest rates are not alarmingly high|Corporate earnings of S&P 500 companies are generally positive, The US economy grows at a reasonable rate, There isn't a severe bearish trend in the global stock market, No global financial crisis occurs in 2023)=0.65
+
+Then, calculating P(Q) by multiplying the conditional probabilities P(X_i):
+P(Q)=P(X₁)*P(X₂|X₁)…P(X_n|X₁, X₂, …, X_{n-1}) = 0.85*0.8*0.75*0.7*0.65 = 0.26265
+
+0.26265

@@ -1,0 +1,13 @@
+Necessary factors:
+1. Erdogan chooses to run for the presidency.
+2. Erdogan maintains sufficient popularity to gain majority or plurality of votes.
+3. The election is free and fair and official results reflect the actual vote count.
+4. External factors (such as economic, geopolitical, and health crises) do not adversely affect Erdogan's candidacy. 
+
+1. P(Erdogan chooses to run for the presidency)=0.95
+2. P(Erdogan maintains sufficient popularity to gain majority or plurality of votes | Erdogan chooses to run for the presidency) = 0.60
+3. P(The election is free and fair and official results reflect the actual vote count | Erdogan maintains sufficient popularity) = 0.85
+4. P(External factors (such as economic, geopolitical, and health crises) do not adversely affect Erdogan's candidacy | Erdogan maintains sufficient popularity, the election is free and fair) = 0.70
+Multiplying out the probabilities: 0.95*0.60*0.85*0.70=0.35805
+
+0.35805

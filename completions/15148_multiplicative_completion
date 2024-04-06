@@ -1,0 +1,18 @@
+Necessary factors:
+1. Virgin Galactic receives required regulatory approvals.
+2. Virgin Galactic's spaceship is fully functional, safe and ready for commercial flights.
+3. Virgin Galactic has no significant financial or organizational obstacles that could delay the flight.
+4. The conditions allowing the flight (weather, spatial events, etc.) are favorable before July 1, 2023.
+5. The flight is scheduled and takes place before July 1, 2023.
+6. The flight meets all criteria of a "successful commercial flight" as defined in the question.
+
+1. P(Virgin Galactic receives required regulatory approvals)=0.85
+2. P(Virgin Galactic's spaceship is fully functional, safe and ready for commercial flights|Virgin Galactic receives required regulatory approvals)=0.85
+3. P(Virgin Galactic has no significant financial or organizational obstacles that could delay the flight|Virgin Galactic's spaceship is fully functional, safe and ready for commercial flights, Virgin Galactic receives required regulatory approvals)=0.8
+4. P(The conditions allowing the flight are favorable before July 1, 2023|Virgin Galactic has no significant financial or organizational obstacles that could delay the flight, Virgin Galactic's spaceship is fully functional, safe and ready for commercial flights, Virgin Galactic receives required regulatory approvals)=0.9
+5. P(The flight is scheduled and takes place before July 1, 2023|The conditions allowing the flight are favorable before July 1, 2023, Virgin Galactic has no significant financial or organizational obstacles that could delay the flight, Virgin Galactic's spaceship is fully functional, safe and ready for commercial flights, Virgin Galactic receives required regulatory approvals)=0.9
+6. P(The flight meets all criteria of a "successful commercial flight"|The flight is scheduled and takes place before July 1, 2023, The conditions allowing the flight are favorable before July 1, 2023, Virgin Galactic has no significant financial or organizational obstacles that could delay the flight, Virgin Galactic's spaceship is fully functional, safe and ready for commercial flights, Virgin Galactic receives required regulatory approvals)=0.95
+
+Multiplying out the probabilities: 0.85*0.85*0.8*0.9*0.9*0.95=0.443019.
+
+0.443019

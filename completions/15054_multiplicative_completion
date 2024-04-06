@@ -1,0 +1,16 @@
+Necessary factors:
+1. Ekrem İmamoğlu decides to run for the election.
+2. İmamoğlu is chosen as a candidate by his party (CHP).
+3. Turkish citizens are satisfied with İmamoğlu's past term as Istanbul mayor.
+4. Influential factors (such as economy, international relations, internal politics) are favoring İmamoğlu's victory.
+5. The election process is free and fair.
+
+1. P(Ekrem İmamoğlu decides to run for election) = 0.85
+2. P(İmamoğlu is chosen as a candidate by his party|Ekrem İmamoğlu decides to run for election) = 0.95
+3. P(Turkish citizens are satisfied with İmamoğlu's past term|İmamoğlu is chosen as a candidate, Ekrem İmamoğlu decides to run for election) = 0.70
+4. P(Influential factors are favoring İmamoğlu's victory|Turkish citizens are satisfied, İmamoğlu is chosen as a candidate, Ekrem İmamoğlu decides to run for election) = 0.60
+5. P(The election process is free and fair|Influential factors are favoring, Turkish citizens are satisfied, İmamoğlu is chosen as a candidate, Ekrem İmamoğlu decides to run for election) = 0.80
+
+Multiplying out the probabilities: 0.85*0.95*0.70*0.60*0.80=0.25812
+
+0.25812

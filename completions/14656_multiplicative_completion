@@ -1,0 +1,13 @@
+Necessary factors:
+1. The Russian government deems it advantageous to invade Kazakhstan.
+2. Existing sanctions or possible anticipatory sanctions against Russia don't deter them.
+3. Military resources and logistics for an invasion are available and in place.
+4. International support or neutrality can be assured, or international opposition is seen as manageable.
+
+1. P(The Russian government deems it advantageous to invade Kazakhstan)=0.15
+2. P(Existing sanctions or possible anticipatory sanctions against Russia don't deter them|The Russian government deems it advantageous to invade Kazakhstan)=0.6
+3. P(Military resources and logistics for an invasion are available and in place|Existing sanctions or possible anticipatory sanctions against Russia don't deter them, The Russian government deems it advantageous to invade Kazakhstan)=0.8
+4. P(International support or neutrality can be assured, or international opposition is seen as manageable|Military resources and logistics for an invasion are available and in place, Existing sanctions or possible anticipatory sanctions against Russia don't deter them, The Russian government deems it advantageous to invade Kazakhstan)=0.4
+
+Multiplying out the probabilities: 0.15*0.6*0.8*0.4=0.0288
+0.0288

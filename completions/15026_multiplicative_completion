@@ -1,0 +1,14 @@
+Necessary factors:
+1. Mutations occur allowing H5N1 to bind to human receptors.
+2. The mutated H5N1 is able to reproduce effectively in humans.
+3. The mutated H5N1 maintains its high virulence during the adaptation.
+4. Human encounter with the avian H5N1 influenza virus before 2024.
+5. Effective human-to-human transmission of the mutated H5N1.
+
+1. P(Mutations occur allowing H5N1 to bind to human receptors)=0.05
+2. P(The mutated H5N1 is able to reproduce effectively in humans|Mutations occur allowing H5N1 to bind to human receptors)=0.3
+3. P(The mutated H5N1 maintains its high virulence during the adaptation|The mutated H5N1 is able to reproduce effectively in humans, Mutations occur allowing H5N1 to bind to human receptors)=0.7
+4. P(Human encounter with the avian H5N1 influenza virus before 2024|The mutated H5N1 maintains its high virulence during the adaptation, The mutated H5N1 is able to reproduce effectively in humans, Mutations occur allowing H5N1 to bind to human receptors)=0.8
+5. P(Effective human-to-human transmission of the mutated H5N1|Human encounter with the avian H5N1 influenza virus before 2024, The mutated H5N1 maintains its high virulence during the adaptation, The mutated H5N1 is able to reproduce effectively in humans, Mutations occur allowing H5N1 to bind to human receptors)=0.2
+Multiplying out the probabilities: 0.05*0.3*0.7*0.8*0.2=0.00168
+0.00168

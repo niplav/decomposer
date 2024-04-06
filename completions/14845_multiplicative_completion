@@ -1,0 +1,13 @@
+Necessary factors:
+1. Full eradication of the COVID-19 virus globally.
+2. Decline of demand and necessity for COVID-19 therapeutics.
+3. Other treatments or prevention measures (like vaccination) become significantly more effective and widely used than current therapeutics.
+4. U.S. FDA decision to withdraw authorization/approval of all COVID-19 therapeutics.
+
+1. P(Full eradication of the COVID-19 virus globally) = 0.2
+2. P(Decline of demand and necessity for COVID-19 therapeutics|Full eradication of the COVID-19 virus globally) = 0.9
+3. P(Other treatments or prevention measures become significantly more effective and widely used than current therapeutics|Decline of demand and necessity for COVID-19 therapeutics, Full eradication of the COVID-19 virus globally) = 0.85
+4. P(U.S. FDA decision to withdraw authorization/approval of all COVID-19 therapeutics|Other treatments or prevention measures become significantly more effective and widely used than current therapeutics, Decline of demand and necessity for COVID-19 therapeutics, Full eradication of the COVID-19 virus globally) = 0.7
+
+Multiplying out the probabilities: 0.2*0.9*0.85*0.7=0.1071
+0.1071

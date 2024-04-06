@@ -1,0 +1,13 @@
+Necessary factors:
+1. Metaculus Inc. decides to host a system for prediction market.
+2. Metaculus Inc. successfully develops and maintains the system.
+3. The payout in the prediction market is monetary or easily convert-able into cash (cryptocurrency, points/tokens to cash).
+4. An individual is allowed to trade instruments valued at $50 or more within 24 hours at some point prior to 2024.
+
+1. P(Metaculus Inc. decides to host a system for prediction market)=0.6
+2. P(Metaculus Inc. successfully develops and maintains the system|Metaculus Inc. decides to host a system for prediction market)=0.85
+3. P(The payout in the prediction market is monetary or easily convert-able into cash|Metaculus Inc. successfully develops and maintains the system, Metaculus Inc. decides to host a system for prediction market)=0.95
+4. P(An individual is allowed to trade instruments valued at $50 or more within 24 hours at some point prior to 2024|The payout in the prediction market is monetary or easily convert-able into cash, Metaculus Inc. successfully develops and maintains the system, Metaculus Inc. decides to host a system for prediction market)=0.90
+
+Multiplying out the probabilities: 0.6*0.85*0.95*0.90=0.43515
+0.43515

@@ -1,0 +1,12 @@
+Necessary factors:
+1. At least one major third party broker (e.g. UN, USA, EU) involves itself in the negotiation of the cease-fire or peace agreement.
+2. Both Russia and Ukraine agree to cease-fire negotiations.
+3. An agreement is reached and a cease-fire or peace agreement is established.
+4. The cease-fire or peace agreement holds for 30 days.
+
+1. P(At least one major third party broker involves itself in the negotiation)=0.80
+2. P(Both Russia and Ukraine agree to negotiations|At least one major third-party broker involves itself in the negotiation)=0.65
+3. P(An agreement is reached and established|Both Russia and Ukraine agree to negotiations, A major third party broker involves itself in the negotiation)=0.6
+4. P(The cease-fire or peace agreement holds for 30 days|An agreement is reached and established, Both Russia and Ukraine agree to negotiations, A major third party broker involves itself in the negotiation)=0.7
+Multiplying out the probabilities: 0.80*0.65*0.6*0.7=0.2184
+0.2184

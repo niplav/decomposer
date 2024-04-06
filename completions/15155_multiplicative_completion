@@ -1,0 +1,13 @@
+Necessary factors:
+1. Bilateral ceasefire is achieved in Ukraine before 2024.
+2. Post-ceasefire recovery and rebuilding processes are rapid and effective.
+3. The global market conditions are favorable for Ukraine's major exports.
+4. Ukraine's key industries are able to increase their productivity above 2021 levels by 2025.
+
+1. P(Bilateral ceasefire is achieved in Ukraine before 2024)=0.4
+2. P(Post-ceasefire recovery and rebuilding processes are rapid and effective|Bilateral ceasefire is achieved in Ukraine before 2024)=0.6
+3. P(The global market conditions are favorable for Ukraine's major exports|Post-ceasefire recovery and rebuilding processes are rapid and effective, Bilateral ceasefire is achieved in Ukraine before 2024)=0.5
+4. P(Ukraine's key industries are able to increase their productivity above 2021 levels by 2025|The global market conditions are favorable for Ukraine's major exports, Post-ceasefire recovery and rebuilding processes are rapid and effective, Bilateral ceasefire is achieved in Ukraine before 2024)=0.7
+
+Multiplying out the probabilities: 0.4*0.6*0.5*0.7 = 0.084
+0.084

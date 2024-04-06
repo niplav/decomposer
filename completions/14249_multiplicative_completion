@@ -1,0 +1,16 @@
+Necessary factors:
+1. Ukraine decides to make a bid to control Sevastopol.
+2. Ukraine manages to mobilize sufficient military resources for Sevastopol.
+3. Russia does not interfere significantly with Ukraine's bid.
+4. Ukraine successfully takes control of the main train station (or, if destroyed, the piece of ground where the train station used to be) in Sevastopol.
+5. Ukraine maintains control of the key area until January 1, 2024.
+
+1. P(Ukraine decides to make a bid to control Sevastopol)=0.15
+2. P(Ukraine manages to mobilize sufficient military resources for Sevastopol|Ukraine decides to make a bid to control Sevastopol)=0.7
+3. P(Russia does not interfere significantly with Ukraine's bid|Ukraine manages to mobilize sufficient military resources for Sevastopol, Ukraine decides to make a bid to control Sevastopol)=0.1
+4. P(Ukraine successfully takes control of the main train station|Russia does not interfere significantly with Ukraine's bid, Ukraine manages to mobilize sufficient military resources for Sevastopol, Ukraine decides to make a bid to control Sevastopol)=0.3
+5. P(Ukraine maintains control of the key area until January 1, 2024|Ukraine successfully takes control of the main train station, Russia does not interfere significantly with Ukraine's bid, Ukraine manages to mobilize sufficient military resources for Sevastopol, Ukraine decides to make a bid to control Sevastopol)=0.8
+
+Multiplying out the probabilities: 0.15*0.7*0.1*0.3*0.8=0.00252
+
+0.00252

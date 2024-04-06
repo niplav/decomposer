@@ -1,0 +1,14 @@
+Necessary factors:
+1. Further adoption and use of Bitcoin.
+2. Positive regulatory environment.
+3. Steady or positive global economic outlook.
+4. No severe negative incidents or security breaches related to Bitcoin.
+
+1. P(Further adoption and use of Bitcoin)=0.7
+2. P(Positive regulatory environment|Further adoption and use of Bitcoin)=0.6
+3. P(Steady or positive global economic outlook|Positive regulatory environment, Further adoption and use of Bitcoin)=0.6
+4. P(No severe negative incidents or security breaches related to Bitcoin|Steady or positive global economic outlook, Positive regulatory environment, Further adoption and use of Bitcoin)=0.8
+
+Multiplying out the probabilities: 0.7*0.6*0.6*0.8=0.2016
+
+0.2016

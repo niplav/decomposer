@@ -1,0 +1,14 @@
+Necessary factors:
+1. The political and military leadership in China decides to invade Taiwan.
+2. There is no effective diplomatic intervention preventing the invasion.
+3. China’s military has the capacity to successfully initiate a full-scale invasion.
+4. Risks of international condemnation, sanctions, or military retaliation don't deter China.
+
+1. P(The political and military leadership in China decides to invade Taiwan)=0.10
+2. P(There is no effective diplomatic intervention preventing the invasion|The political and military leadership in China decides to invade Taiwan)=0.70
+3. P(China’s military has the capacity to successfully initiate a full-scale invasion|There is no effective diplomatic intervention preventing the invasion, The political and military leadership in China decides to invade Taiwan)=0.95
+4. P(Risks of international condemnation, sanctions, or military retaliation don't deter China|China’s military has the capacity to successfully initiate a full-scale invasion, There is no effective diplomatic intervention preventing the invasion, The political and military leadership in China decides to invade Taiwan)=0.80
+
+Multiplying out the probabilities: 0.10*0.70*0.95*0.80=0.0532
+
+0.0532

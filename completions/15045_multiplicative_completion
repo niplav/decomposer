@@ -1,0 +1,15 @@
+Necessary factors:
+1. Temel Karamollaoğlu decides to run for the 2023 Presidential election.
+2. He gets sufficient support from his party, Saadet Partisi.
+3. He gets enough public support to secure a majority vote.
+4. There are no major irregularities or fraud in the voting process that significantly affect the result.
+5. The election is not postponed or cancelled.
+
+1. P(Temel Karamollaoğlu decides to run for the 2023 Presidential election)=0.8
+2. P(He gets sufficient support from his party, Saadet Partisi|Temel Karamollaoğlu decides to run for the 2023 Presidential election)=0.7
+3. P(He gets enough public support to secure a majority vote|He gets sufficient support from his party, Saadet Partisi)=0.15
+4. P(There are no major irregularities or fraud in the voting process that significantly affect the result|He gets enough public support to secure a majority vote, He gets sufficient support from his party, Saadet Partisi)=0.95
+5. P(The election is not postponed or cancelled |There are no major irregularities or fraud in the voting process that significantly affect the result, He gets enough public support to secure a majority vote, He gets sufficient support from his party, Saadet Partisi)=0.98
+Multiplying out the probabilities: 0.8*0.7*0.15*0.95*0.98=0.078285.
+
+0.078285

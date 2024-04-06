@@ -1,0 +1,15 @@
+Necessary factors:
+1. Joe Biden is still President on January 1, 2024.
+2. Major policy decisions by Biden administration between the present and January 1, 2024 are well-received.
+3. U.S. economy is stable or improving by January 1, 2024.
+4. Biden's health remains stable.
+   
+1. P(Joe Biden is still President on January 1, 2024) = 0.90
+   - This is based on Metaculus data: https://www.metaculus.com/questions/12217/biden-does-not-complete-first-term/
+2. P(Major policy decisions by Biden administration between the present and January 1, 2024 are well-received| Joe Biden is still President on January 1, 2024) = 0.60
+3. P(U.S. economy is stable or improving by January 1, 2024 | Major policy decisions by Biden administration between the present and January 1, 2024 are well-received, Joe Biden is still President on January 1, 2024) = 0.80
+4. P(Biden's health remains stable | U.S. economy is stable or improving by January 1, 2024, Major policy decisions by Biden administration between the present and January 1, 2024 are well-received, Joe Biden is still President on January 1, 2024) = 0.85
+
+Multiplying out the probabilities: 0.90*0.60*0.80*0.85 = 0.3672
+
+0.3672

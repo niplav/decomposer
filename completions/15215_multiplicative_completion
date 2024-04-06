@@ -1,0 +1,13 @@
+Necessary factors:
+1. The U.S. government fails to enact a "Plan B" to avoid default.
+2. Market forces and governmental actors are unable (or unwilling) to absorb the resultant funding gap.
+3. Global financial systems and institutions respond overwhelmingly negatively.
+4. Other unforeseen aggravating factors occur, making the situation even worse.
+
+1. P(The U.S. government fails to enact a "Plan B" to avoid default) = 0.15
+2. P(Market forces and governmental actors are unable (or unwilling) to absorb the resultant funding gap|The U.S. government fails to enact a "Plan B" to avoid default) =0.5
+3. P(Global financial systems and institutions respond overwhelmingly negatively|Market forces and governmental actors are unable (or unwilling) to absorb the resultant funding gap,The U.S. government fails to enact a "Plan B" to avoid default) =0.6
+4. P(Other unforeseen aggravating factors occur, making the situation even worse|Global financial systems and institutions respond overwhelmingly negatively, Market forces and governmental actors are unable (or unwilling) to absorb the resultant funding gap,The U.S. government fails to enact a "Plan B" to avoid default) =0.2
+
+Multiplying out the probabilities: 0.15*0.5*0.6*0.2=0.009
+0.009

@@ -1,0 +1,16 @@
+Necessary factors:
+1. The US government runs out of money to service its debt.
+2. The US government fails to raise the debt ceiling.
+3. There is an impasse in political negotiations to address the debt ceiling and/or fiscal policy.
+4. The President or Secretary of the Treasury makes a decision not to prioritize debt payments.
+5. Major credit ratings agencies identify a default on US sovereign debt obligations.
+
+1. P(The US government runs out of money to service its debt)=0.02
+2. P(The US government fails to raise the debt ceiling|The US government runs out of money to service its debt)=0.25
+3. P(There is an impasse in political negotiations to address the debt ceiling and/or fiscal policy|The US government fails to raise the debt ceiling, The US government runs out of money to service its debt)=0.6
+4. P(The President or Secretary of the Treasury makes a decision not to prioritize debt payments|There is an impasse in political negotiations to address the debt ceiling and/or fiscal policy, The US government fails to raise the debt ceiling, The US government runs out of money to service its debt)=0.1
+5. P(Major credit ratings agencies identify a default on US sovereign debt obligations|The President or Secretary of the Treasury makes a decision not to prioritize debt payments, There is an impasse in political negotiations to address the debt ceiling and/or fiscal policy, The US government fails to raise the debt ceiling, The US government runs out of money to service its debt)=0.95
+
+Multiplying out the probabilities: 0.02*0.25*0.6*0.1*0.95=0.00285
+
+0.00285

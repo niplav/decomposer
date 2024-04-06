@@ -1,0 +1,14 @@
+Necessary factors:
+1. Positive performance of the global economy.
+2. Stability and growth in the Chinese economy.
+3. Favorable Chinese governmental policies on stock market.
+4. Absence of major global geopolitical conflicts.
+
+1. P(Positive performance of the global economy)=0.6
+2. P(Stability and growth in the Chinese economy|Positive performance of the global economy)=0.75
+3. P(Favorable Chinese governmental policies on stock market|Stability and growth in the Chinese economy, Positive performance of the global economy)=0.7
+4. P(Absence of major global geopolitical conflicts|Favorable Chinese governmental policies on stock market, Stability and growth in the Chinese economy, Positive performance of the global economy)= 0.7
+
+Multiplying out the probabilities: 0.6*0.75*0.7*0.7=0.2205
+
+0.2205

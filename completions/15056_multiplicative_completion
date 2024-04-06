@@ -1,0 +1,13 @@
+Necessary factors:
+1. Meral Akşener decides to run for the 2023 Presidential Election.
+2. The İYİ Party successfully nominates Meral Akşener as their candidate.
+3. Sufficient voters turn out to vote in the election.
+4. Meral Akşener gains a majority of the votes in either the first or second round of elections.
+
+1. P(Meral Akşener decides to run for the 2023 Presidential Election)=0.8
+2. P(The İYİ Party successfully nominates Meral Akşener as their candidate|Meral Akşener decides to run for the 2023 Presidential Election)=0.95
+3. P(Sufficient voters turn out to vote in the election| The İYİ Party successfully nominates Meral Akşener as their candidate, Meral Akşener decides to run for the 2023 Presidential Election)=0.9
+4. P(Meral Akşener gains a majority of the votes in either the first or second round of elections|Sufficient voters turn out to vote in the election, The İYİ Party successfully nominates Meral Akşener as their candidate, Meral Akşener decides to run for the 2023 Presidential Election)=0.4
+
+Multiplying out the probabilities: P(Q)=0.8*0.95*0.9*0.4=0.2736
+0.2736

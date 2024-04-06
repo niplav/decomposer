@@ -1,0 +1,15 @@
+Necessary factors:
+
+1. The regulatory environment allows for FAANG or Musk companies to accept crypto as a form of payment.
+2. These companies have developed the infrastructure to support crypto transactions.
+3. The perceived profitability of accepting crypto outweighs any potential technical or reputation risks.
+4. At least one of these companies has made a public commitment towards accepting crypto.
+
+1. P(The regulatory environment allows for FAANG or Musk companies to accept crypto)=0.8
+2. P(These companies have developed the infrastructure to support crypto transactions|The regulatory environment allows for FAANG or Musk companies to accept crypto)=0.65
+3. P(The perceived profitability of accepting crypto outweighs any potential technical or reputation risks|These companies have developed the infrastructure to support crypto transactions, The regulatory environment allows for FAANG or Musk companies to accept crypto)=0.6
+4. P(At least one of these companies has made a public commitment towards accepting crypto|The perceived profitability of accepting crypto outweighs any potential technical or reputation risks, These companies have developed the infrastructure to support crypto transactions, The regulatory environment allows for FAANG or Musk companies to accept crypto)=0.55
+
+Multiplying out the probabilities: 0.8*0.65*0.6*0.55=0.1716
+
+0.1716

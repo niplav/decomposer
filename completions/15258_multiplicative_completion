@@ -1,0 +1,14 @@
+Necessary factors:
+1. An external actor feels threatened or incentivized to engage militarily.
+2. The cost-benefit analysis of involved potential actors leans towards benefit.
+3. No successful diplomatic intervention takes place.
+4. The political climate in the region escalates to a point where conflict becomes inevitable.
+
+1. P(An external actor feels threatened or incentivized to engage militarily)=0.1
+2. P(The cost-benefit analysis involved potential actors leans towards benefit|An external actor feels threatened or incentivized to engage militarily)=0.6
+3. P(No successful diplomatic intervention takes place|An external actor feels threatened or incentivized to engage militarily, The cost-benefit analysis involved potential actors leans towards benefit)=0.7
+4. P(The political climate in the region escalates to a point where conflict becomes inevitable|No successful diplomatic intervention takes place, An external actor feels threatened or incentivized to engage militarily, The cost-benefit analysis potentially leans towards benefit)=0.2
+
+Multiplying out the probabilities: 0.1*0.6*0.7*0.2=0.0084
+
+0.0084

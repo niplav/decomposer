@@ -1,0 +1,13 @@
+Necessary factors:
+
+1. Increase in global surface temperature contributing to overall melting of ice.
+2. No significant influence from naturally occurring climate events such as El Nino, La Nina.
+3. Lack of unusually extensive multi-year sea ice formation.
+4. Effect of atmospheric concentrations of greenhouse gases continue to increase.
+
+1. P(Increase in global surface temperature contributing to overall melting of ice) = 0.95
+2. P(No significant influence from naturally occurring climate events such as El Nino, La Nina | Increase in global surface temperature contributing to overall melting of ice ) = 0.50
+3. P(Lack of unusually extensive multi-year sea ice formation | No significant influence from naturally occurring climate events such as El Nino, La Nina, Increase in global surface temperature contributing to overall melting of ice) = 0.60
+4. P(Effect of atmospheric concentrations of greenhouse gases continue to increase | Lack of unusually extensive multi-year sea ice formation, No significant influence from naturally occurring climate events such as El Nino, La Nina, Increase in global surface temperature contributing to overall melting of ice) = 0.99
+Multiplying the probabilities gives us: 0.95*0.50*0.60*0.99 = 0.28221
+0.28221

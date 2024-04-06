@@ -1,0 +1,12 @@
+Necessary factors:
+
+1. The political environment is such that increasing or suspending the debt limit is seen as necessary (i.e., there is substantial national debt and the limit is close to being reached).
+2. There is enough support in the Congress to pass a bill increasing or suspending the debt limit.
+3. The President signs off on the bill to increase or suspend the debt limit.
+
+1. P(Political environment is such that increasing or suspending the debt limit is seen as necessary before 2024)=0.95
+2. P(There is enough support in Congress to pass a bill increasing or suspending the debt limit|Political environment is such that increasing or suspending the debt limit is seen as necessary)=0.9
+3. P(The President signs off on the bill to increase or suspend the debt limit|There is enough support in Congress to pass a bill increasing or suspending the debt limit, Political environment is such that increasing or suspending the debt limit is seen as necessary)=0.95
+
+Multiplying out the probabilities: 0.95*0.9*0.95=0.81075
+0.81075

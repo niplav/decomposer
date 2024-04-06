@@ -1,0 +1,11 @@
+Necessary factors:
+1. There is no major escalation of hostilities between Ukraine and Russia that results in loss of control over Zaporizhzhia.
+2. Internal political stability is maintained within Ukraine to effectively govern Zaporizhzhia.
+3. No significant internal separatist movements emerge in Zaporizhzhia advocating for a change in control.
+
+1. P(No major escalation of hostilities between Ukraine and Russia)=0.8
+2. P(Internal political stability within Ukraine|No major escalation of hostilities between Ukraine and Russia)=0.9
+3. P(No significant internal separatist movements in Zaporizhzhia|No major escalation of hostilities between Ukraine and Russia, Internal political stability within Ukraine)=0.95
+Multiplying out the probabilities: 0.8*0.9*0.95=0.684.
+
+0.684

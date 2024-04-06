@@ -1,0 +1,17 @@
+Necessary factors:
+1. Joe Biden is elected as president.
+2. Biden administration prioritizes ending the sentencing disparity between crack and powder cocaine.
+3. A Bill that ends the sentencing disparity is introduced in Congress.
+4. The Bill passes the House of Representatives.
+5. The Bill passes the Senate.
+6. The Bill is signed into law by President Biden.
+
+1. P(Joe Biden is elected as president)=1 (Biden has already been inaugurated as President.)
+2. P(Biden administration prioritizes ending the sentencing disparity|Joe Biden is elected as president)=0.8 (Based on Biden's campaign and early actions.)
+3. P(A Bill is introduced in Congress|Biden Administration prioritizes ending the sentencing disparity, Joe Biden is elected as president)=0.9 (Biden's influence and control over his party should facilitate introduction of the necessary legislation.)
+4. P(The Bill passes the House of Representatives|A Bill is introduced, Biden Administration prioritizes ending the sentencing disparity, Joe Biden is elected as president)=0.85 (Democrats control the House, and they typically support criminal justice reform.)
+5. P(The Bill passes the Senate|The Bill passes the House, A Bill is introduced, Biden Administration prioritizes ending the disparity, Joe Biden is elected)=0.6 (The Senate is split 50-50 and contentious issues often face opposition.)
+6. P(The Bill is signed into law by President Biden|The Bill passes the Senate, The Bill passes the House, A Bill is introduced, Biden Administration prioritizes ending the disparity, Joe Biden is elected)=0.99 (There is little reason to assume Biden would veto the legislation.)
+
+Multiplying out the probabilities: 1*0.8*0.9*0.85*0.6*0.99=0.367416
+0.367416

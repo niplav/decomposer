@@ -1,0 +1,15 @@
+Necessary factors:
+1. Ahmet Davutoğlu runs for the presidency in 2023.
+2. Ahmet Davutoğlu's party, the Future Party, is popular enough to secure a majority.
+3. The elections are free and fair.
+4. No extraordinary occurrences (like a coup or an impeachment) that would interrupt Ahmet Davutoğlu's run.
+
+Conditional Probabilities:
+1. P(Ahmet Davutoğlu runs for the presidency in 2023)=0.5
+2. P(Ahmet Davutoğlu's party, the Future Party, is popular enough to secure a majority|Ahmet Davutoğlu runs for the presidency in 2023)=0.3
+3. P(The elections are free and fair|Ahmet Davutoğlu's party, the Future Party, is popular enough to secure a majority, Ahmet Davutoğlu runs for the presidency in 2023)=0.8
+4. P(No extraordinary occurrences|The elections are free and fair, Ahmet Davutoğlu's party, the Future Party, is popular enough to secure a majority, Ahmet Davutoğlu runs for the presidency in 2023)=0.9
+
+Multiplying out the probabilities: 0.5*0.3*0.8*0.9=0.108
+
+0.108

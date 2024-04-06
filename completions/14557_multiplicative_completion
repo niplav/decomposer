@@ -1,0 +1,11 @@
+Necessary factors:
+1. There is unresolved disagreement over budgetary allocations among key stakeholders.
+2. The Congress fails to enact regular appropriations or a continuing resolution before the budgetary deadline.
+3. The President doesn't intervene to prevent the shutdown.
+
+1. P(There is unresolved disagreement over budgetary allocations among key stakeholders)=0.4
+2. P(The Congress fails to enact regular appropriations or a continuing resolution before the budgetary deadline|There is unresolved disagreement over budgetary allocations among key stakeholders)=0.5
+3. P(The President doesn't intervene to prevent the shutdown|The Congress fails to enact regular appropriations or a continuing resolution before the budgetary deadline, There is unresolved disagreement over budgetary allocations among key stakeholders)=0.3
+
+Multiplying out the probabilities: 0.4*0.5*0.3=0.06
+0.06

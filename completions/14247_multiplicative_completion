@@ -1,0 +1,13 @@
+Necessary factors:
+1. Gavin Newsom decides to run for presidency in 2024.
+2. Gavin Newsom wins the Democratic Primary.
+3. No other strong democratic nominee emerges
+4. The general political landscape in 2024 favors Gavin Newsom's political stance and achievements
+
+1. P(Gavin Newsom decides to run for presidency in 2024)= 0.2
+2. P(Gavin Newsom wins the Democratic Primary|Gavin Newsom decides to run for presidency in 2024)= 0.25
+3. P(No other strong democratic nominee emerges|Gavin Newsom decides to run for presidency in 2024, Gavin Newsom wins the Democratic Primary) = 0.5
+4. P(The general political landscape in 2024 favors Gavin Newsom's political stance and achievements|No other strong democratic nominee emerges, Gavin Newsom decides to run for presidency in 2024, Gavin Newsom wins the Democratic Primary) = 0.7
+
+Multiplying out the probabilities: 0.2*0.25*0.5*0.7=0.0175
+0.0175

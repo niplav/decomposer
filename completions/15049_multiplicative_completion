@@ -1,0 +1,14 @@
+Necessary factors:
+1. Süleyman Soylu decides to run for the Presidential Election.
+2. Süleyman Soylu is the nominee of a major political party.
+3. Public opinion favors Süleyman Soylu at the time of the election.
+4. The actual election process is carried out fairly and without significant disruption.
+
+1. P(Süleyman Soylu decides to run for the Presidential Election)= 0.30
+2. P(Süleyman Soylu is the nominee of a major political party|Süleyman Soylu decides to run)= 0.70
+3. P(Public opinion favors Süleyman Soylu at the time of the election |Süleyman Soylu is the nominee)= 0.55
+4. P(The actual election process is carried out fairly and without significant disruption|Public opinion favors Süleyman Soylu, Süleyman Soylu is the nominee)= 0.90
+
+Multiplying out the probabilities: 0.30*0.70*0.55*0.90= 0.104025
+
+0.104025

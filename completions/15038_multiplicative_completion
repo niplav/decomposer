@@ -1,0 +1,14 @@
+Necessary factors:
+1. Cem Uzan decides to run for Presidency.
+2. Uzan's party, the Young Party, gains enough popularity to compete with larger parties.
+3. Uzan is not disqualified from running due to past legal or political issues.
+4. Uzan manages to secure the majority of votes in the elections.
+
+1. P(Cem Uzan decides to run for Presidency) = 0.6
+2. P(Young Party gains enough popularity|Cem Uzan decides to run for Presidency) = 0.3
+3. P(Uzan is not disqualified|Young Party gains enough popularity, Cem Uzan decides to run for Presidency) = 0.8
+4. P(Uzan secures the majority of votes|Uzan is not disqualified, Young Party gains enough popularity, Cem Uzan decides to run for Presidency) = 0.4
+
+Multiplying out the probabilities: 0.6*0.3*0.8*0.4 = 0.0576
+
+0.0576

@@ -1,0 +1,13 @@
+Necessary factors:
+1. Existing technologies (e.g., fMRI, PET, EEG) or those under development can identify and quantify the neurological correlates of consciousness.
+2. Scientific community, especially neuroscientists, have a consensus definition of "consciousness" that allows for empirical testing.
+3. The scientific studies performed are peer-reviewed and broadly accepted in the neuroscience community.
+4. The results of these studies are published in recognized scientific journals.
+
+1. P(Existing technologies can identify and quantify the neurological correlates of consciousness)=0.7
+2. P(Consensus definition of "consciousness" that allows for empirical testing|Existing technologies can identify and quantify the neurological correlates of consciousness)=0.6
+3. P(The scientific studies are peer-reviewed and broadly accepted|Consensus definition of "consciousness", existing technologies)=0.8
+4. P(The results are published in recognized scientific journals|The scientific studies are peer-reviewed, consensus definition, existing technologies)=0.95
+
+Multiplying out the probabilities: 0.7*0.6*0.8*0.95=0.3186
+0.3186

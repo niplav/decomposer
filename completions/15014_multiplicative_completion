@@ -1,0 +1,15 @@
+Necessary factors:
+
+1. Kevin McCarthy continues to serve as a House Representative or similar position that would warrant a trip to Taiwan in 2023.
+2. Kevin McCarthy desires to visit Taiwan in 2023.
+3. The U.S.'s political and diplomatic relations with Taiwan remain stable and safe for travel.
+4. Kevin McCarthy is able to travel (i.e., he is in good health and there are no travel restrictions hindering his visit).
+
+1. P(Kevin McCarthy continues to serve as a House Representative or similar position)=0.95
+2. P(Kevin McCarthy desires to visit Taiwan in 2023|Kevin McCarthy continues to serve as a House Representative)=0.25
+3. P(The U.S.'s political and diplomatic relations with Taiwan remain stable and safe for travel|Kevin McCarthy desires to visit Taiwan in 2023, Kevin McCarthy continues to serve as a House Representative)=0.8
+4. P(Kevin McCarthy is able to travel|The U.S.'s political and diplomatic relations with Taiwan remain stable and safe for travel, Kevin McCarthy desires to visit Taiwan in 2023, Kevin McCarthy continues to serve as a House Representative)=0.98
+
+Multiplying out the probabilities: 0.95*0.25*0.8*0.98=0.1862
+
+0.1862

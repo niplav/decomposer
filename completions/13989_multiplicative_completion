@@ -1,0 +1,22 @@
+Necessary factors:
+1. There's an event that could potentially cause the destruction of the Kerch Bridge.
+2. This event actually occurs.
+3. The event successfully destroys the Kerch Bridge.
+4. The bridge isn't repaired before January 1, 2024 such that vehicles can pass over it.
+
+Conditional probabilities:
+1. P(There's an event that could potentially cause the destruction of the Kerch Bridge) = 0.2
+2. P(This event actually occurs | There's an event that could potentially cause the destruction of the Kerch Bridge) = 0.1
+3. P(The event destroys the Kerch Bridge | This event actually occurs and there's an event that can destroy the Kerch Bridge) = 0.7
+4. P(The bridge isn't repaired before January 1, 2024 such that vehicles can pass over it | The event destroys the Kerch Bridge) = 0.3
+
+P(Q) = P(There's an event that could potentially cause the destruction of the Kerch Bridge) * 
+         P(This event actually occurs | There's an event that could potentially cause the destruction of the Kerch Bridge) * 
+         P(The event destroys the Kerch Bridge | This event actually occurs and there's an event that can destroy Kerch Bridge) * 
+         P(The bridge isn't repaired before January 1, 2024 such that vehicles can pass over it | The event destroys the Kerch Bridge)
+
+As such,
+
+P(Q)=0.2*0.1*0.7*0.3 =  0.0042
+
+0.0042

@@ -1,0 +1,15 @@
+Necessary factors:
+1. Muharrem İnce decides to run for President
+2. Muharrem İnce is nominated by his party as their presidential candidate
+3. Muharrem İnce's campaign performs effectively
+4. Public opinion tilts towards Muharrem İnce
+5. Muharrem İnce secures a simple majority in either of the two rounds of elections
+
+1. P(Muharrem İnce decides to run for President) = 0.85
+2. P(Muharrem İnce is nominated by his party as their presidential candidate | Muharrem İnce decides to run for President) = 0.65
+3. P(Muharrem İnce's campaign performs effectively | Muharrem İnce is nominated by his party) = 0.5
+4. P(Public opinion tilts towards Muharrem İnce | Muharrem İnce's campaign performs effectively) = 0.4
+5. P(Muharrem İnce secures a simple majority in either of the two rounds of elections | Public opinion tilts towards Muharrem İnce) = 0.3
+
+Multiplying out the probabilities: 0.85*0.65*0.5*0.4*0.3 = 0.039975
+0.039975

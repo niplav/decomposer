@@ -1,0 +1,17 @@
+Necessary factors:
+1. Both sides, Russia and Ukraine, are willing to negotiate a cease-fire.
+2. An international mediator (like the UN, EU, or another entity) is willing and able to facilitate those negotiations.
+3. The terms of a potential cease-fire are acceptable to both Russia and Ukraine.
+4. The cease-fire is formally agreed upon, signed, and designated to start before January 1, 2024.
+5. The cease-fire is respected and major violations do not occur that would lead to its termination before January 1, 2024.
+
+1. P(Russia and Ukraine are willing to negotiate a cease-fire)=0.35
+2. P(An international mediator is willing and able to facilitate those negotiations|Russia and Ukraine are willing to negotiate)=0.90
+3. P(The terms of a potential cease-fire are acceptable to both Russia and Ukraine | Russia and Ukraine are willing to negotiate, An international mediator is available)=0.45
+4. P(The cease-fire is formally agreed upon, signed and starts before January 1, 2024 | The terms of the potential cease-fire are acceptable to both Russia and Ukraine, Russia and Ukraine are willing to negotiate, International mediator is available)=0.60
+5. P(The cease-fire is respected and major violations do not occur before January 1, 2024 | The cease-fire is formally agreed upon, signed and starts before January 1, 2024, The terms of the potential cease-fire are acceptable to both Russia and Ukraine, Russia and Ukraine are willing to negotiate, An international mediator is available)=0.70
+
+Multiplying out the probabilities: 
+0.35*0.90*0.45*0.60*0.70=0.044415
+
+0.044415

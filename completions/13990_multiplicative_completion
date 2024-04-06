@@ -1,0 +1,11 @@
+Necessary factors:
+1. There is an explosion in COVID-19 cases within China.
+2. Testing and reporting capabilities are sufficiently robust to confirm 25 million+ cases.
+3. The Chinese authorities transparently report the confirmed cases to the global community.
+
+1. P(There is an explosion in COVID-19 cases within China)=0.3
+2. P(Testing and reporting capabilities are sufficiently robust to confirm 25 million+ cases|There is an explosion in COVID-19 cases within China)=0.9
+3. P(The Chinese authorities transparently report the confirmed cases to the global community|Testing and reporting capabilities are sufficiently robust to confirm 25 million+ cases, There is an explosion in COVID-19 cases within China)=0.5
+
+Multiplying out the probabilities: 0.3*0.9*0.5 = 0.135
+0.135

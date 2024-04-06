@@ -71,9 +71,6 @@ questions=metaculus.load_questions(data_dir='../iqisa/data')
 end_training_data=datetime.fromisoformat('2023-04-30')
 not_in_training_data=questions.loc[(questions['q_status']=='resolved') & (questions['resolve_time']>=end_training_data)]
 
-direct_forecasts=dict()
-multiplicative_forecasts=dict()
-
 i=0
 limit=50
 

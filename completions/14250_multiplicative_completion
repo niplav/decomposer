@@ -1,0 +1,11 @@
+Necessary factors:
+1. Ceasefire agreement is reached between Russia and Ukraine.
+2. The ceasefire agreement includes the return of Luhansk to Ukraine.
+3. The ceasefire agreement is effectively implemented.
+
+1. P(Ceasefire agreement is reached between Russia and Ukraine)=0.6
+2. P(The ceasefire agreement includes the return of Luhansk to Ukraine|Ceasefire agreement is reached between Russia and Ukraine)=0.4
+3. P(The ceasefire agreement is effectively implemented|The ceasefire agreement includes the return of Luhansk to Ukraine, Ceasefire agreement is reached between Russia and Ukraine)=0.7
+
+Multiplying out the probabilities: 0.6*0.4*0.7=0.168
+0.168

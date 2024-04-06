@@ -1,0 +1,14 @@
+Necessary factors:
+1. Rising geopolitical tension involving Russia.
+2. Russia perceives a credible threat or advantage.
+3. The political decision to mobilize is made in Russia.
+4. The Institute for the Study of War recognizes and announces the mobilization.
+
+1. P(Rising geopolitical tension involving Russia)=0.65
+2. P(Russia perceives a credible threat or advantage|Rising geopolitical tension involving Russia)=0.75
+3. P(The political decision to mobilize is made in Russia|Russia perceives a credible threat or advantage, Rising geopolitical tension involving Russia)=0.4
+4. P(The Institute for the Study of War recognizes and announces the mobilization|The political decision to mobilize is made in Russia, Russia perceives a credible threat or advantage, Rising geopolitical tension involving Russia)=0.9
+
+Multiplying out the probabilities: 0.65*0.75*0.4*0.9=0.1755
+
+0.1755

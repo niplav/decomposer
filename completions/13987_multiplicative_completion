@@ -1,0 +1,10 @@
+Necessary factors:
+1. Ali Khameini's health deteriorates significantly.
+2. There is a politically viable successor available.
+3. Iran's political elites agree on the successor.
+
+1. P(Ali Khameini's health deteriorates significantly)=0.35
+2. P(There is a politically viable successor available|Ali Khameini's health deteriorates significantly)=0.85
+3. P(Iran's political elites agree on the successor|There is a politically viable successor available, Ali Khameini's health deteriorates significantly)=0.75
+Multiplying out the probabilities: 0.35*0.85*0.75=0.223125
+0.223125

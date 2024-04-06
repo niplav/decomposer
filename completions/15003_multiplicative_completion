@@ -1,0 +1,15 @@
+Necessary factors:
+1. NATO perceives threat from opposing factions that warrant sending fighter jets.
+2. Ukraine requests for or agrees to the provision of F-16 fighter jets.
+3. NATO country(s) have surplus F-16 fighter jets to allocate to Ukraine.
+4. Political and strategic reviews by NATO country(s) approve the dispatch of F-16 fighter jets to Ukraine.
+
+Probabilities:
+1. P(NATO perceives threat from opposing factions that warrant sending fighter jets)=0.60
+2. P(Ukraine requests for or agrees to the provision of F-16 fighter jets|NATO perceives threat from opposing factions that warrant sending fighter jets)=0.70
+3. P(NATO country(s) have surplus F-16 fighter jets to allocate to Ukraine|Ukraine requests for or agrees to the provision of F-16 fighter jets, NATO perceives threat from opposing factions that warrant sending fighter jets)=0.80
+4. P(Political and strategic reviews by NATO country(s) approve the dispatch of F-16 fighter jets to Ukraine|NATO country(s) have surplus F-16 fighter jets to allocate to Ukraine, Ukraine requests for or agrees to the provision of F-16 fighter jets, NATO perceives threat from opposing factions that warrant sending fighter jets)=0.50
+
+P(Q) = 0.60 * 0.70 * 0.80 * 0.50 = 0.168
+
+0.168

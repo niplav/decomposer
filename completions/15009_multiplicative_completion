@@ -1,0 +1,14 @@
+Necessary factors:
+1. Ukraine requests for F-22 or F-35 fighter jets.
+2. The U.S. (or other countries with these jets) approves the request.
+3. There are no significant international objections to the transfer.
+4. There are no insurmountable logistical challenges to the transfer.
+
+1. P(Ukraine requests for F-22 or F-35 fighter jets) = 0.6
+2. P(The U.S. (or other countries with these jets) approves the request | Ukraine requests for F-22 or F-35 fighter jets) = 0.1
+3. P(No significant international objections to the transfer | Ukraine requests for jets, The U.S. approves the request) = 0.7
+4. P(No insurmountable logistical challenges to the transfer | No significant international objections, Ukraine requests for jets, The U.S. approves the request) = 0.9
+
+Multiplying out the probabilities: 0.6 * 0.1 * 0.7 * 0.9 = 0.0378
+
+0.0378

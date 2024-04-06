@@ -1,0 +1,11 @@
+Necessary factors:
+1. There is a relevant affirmative action case accepted by the Supreme Court in 2023.
+2. The Supreme Court holds a conservative majority in 2023.
+3. The majority of the conservative court justices decide to rule against affirmative action.
+
+1. P(There is a relevant affirmative action case accepted by the Supreme Court in 2023) = 0.15
+2. P(The Supreme Court holds a conservative majority in 2023|There is a relevant affirmative action case accepted by the Supreme Court in 2023) = 0.8
+3. P(The majority of the conservative court justices decide to rule against affirmative action|The Supreme Court holds a conservative majority, There is a relevant affirmative action case) = 0.65
+Multiplying out the probabilities: 0.15*0.8*0.65 = 0.078
+
+0.078

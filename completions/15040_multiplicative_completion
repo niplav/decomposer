@@ -1,0 +1,16 @@
+Necessary factors:
+1. Sinan Oğan decides to run for presidency.
+2. The party he represents acquires enough support in the general public for a successful campaign.
+3. Other strong candidates do not pull their support away.
+4. No significant political incidents occur that would negatively impact Sinan Oğan’s reputation.
+5. Voters turnout is high, favoring Sinan Oğan.
+6. Sinan Oğan wins the popular vote.
+
+1. P(Sinan Oğan decides to run for presidency)=0.75
+2. P(The party he represents acquires enough support|Sinan Oğan decides to run for presidency)=0.6
+3. P(Other strong candidates do not pull support away|The party he represents acquires enough support, Sinan Oğan decides to run for presidency)=0.5
+4. P(No significant political incidents occur that would negatively impact Sinan Oğan’s reputation|Other strong candidates do not pull support away, The party he represents acquires enough support, Sinan Oğan decides to run for presidency)=0.8
+5. P(Voters turnout is high, favoring Sinan Oğan|No significant political incidents occur, Other strong candidates do not pull support away, The party he represents acquires enough support, Sinan Oğan decides to run for presidency)=0.7
+6. P(Sinan Oğan wins the popular vote|Voters turnout is high, No significant political incidents occur, Other strong candidates do not pull support away, The party he represents acquires enough support, Sinan Oğan decides to run for presidency)=0.6
+Multiplying out the probabilities: 0.75*0.6*0.5*0.8*0.7*0.6=0.0756
+0.0756

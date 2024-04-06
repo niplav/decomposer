@@ -1,0 +1,19 @@
+Necessary and sufficient factors:
+
+1. Ukraine engages in a military conflict with Russia to regain lost territory.
+2. Ukraine emerges victorious in the conflict.
+3. Ukraine is able to maintain control over Simferopol post-conflict.
+4. No major international powers intervene in a way that prevents Ukrainian control over Simferopol. 
+5. All transitions of authority are completed before January 1, 2024. 
+
+Conditional probabilities:
+
+1. P(Ukraine engages in a military conflict with Russia to regain lost territory) = 0.20
+2. P(Ukraine emerges victorious in the conflict | Ukraine engages in a military conflict with Russia to regain lost territory) = 0.35
+3. P(Ukraine is able to maintain control over Simferopol post-conflict | Ukraine emerges victorious in the conflict) = 0.90
+4. P(No major international powers intervene | Ukraine is able to maintain control over Simferopol post-conflict) = 0.70
+5. P(All transitions of authority are completed before January 1, 2024 | No major international powers intervene) = 0.80
+
+Multiplying out the probabilities: 0.20 * 0.35 * 0.90 * 0.70 * 0.80 = 0.0396
+
+0.0396

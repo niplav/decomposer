@@ -1,0 +1,10 @@
+Necessary factors:
+1. Technical issues within Twitter's infrastructure leading to a complete outage.
+2. Failure in immediate recovery and continuity plans, extending the outage to more than 60 minutes.
+
+1. P(Technical issues within Twitter's infrastructure leading to a complete outage)=0.05
+2. P(Failure in immediate recovery and continuity plans, extending the outage to more than 60 minutes|Technical issues within Twitter's infrastructure lead to a complete outage)=0.1
+
+Multiplying out the probabilities: 0.05*0.1=0.005
+
+0.005

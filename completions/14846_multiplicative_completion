@@ -1,0 +1,14 @@
+Necessary factors:
+1. There is a newly mutated strain of influenza which is highly contagious.
+2. The vaccine distribution is less than expected or the vaccine is not effective against the new strain.
+3. The population has a low level of immunity from the previous flu season.
+4. The healthcare system is stressed, reducing ability to manage outbreaks.
+
+1. P(There is a newly mutated strain of influenza which is highly contagious)=0.15
+2. P(The vaccine distribution is less than expected or the vaccine is not effective against the new strain|There is a newly mutated strain of influenza which is highly contagious)=0.25
+3. P(The population has a low level of immunity from the previous flu season|The vaccine distribution is less than expected or the vaccine is not effective against the new strain, There is a newly mutated strain of influenza which is highly contagious)=0.4
+4. P(The healthcare system is stressed, reducing ability to manage outbreaks|The population has a low level of immunity from the previous flu season, The vaccine distribution is less than expected or the vaccine is not effective against the new strain, There is a newly mutated strain of influenza which is highly contagious)=0.5
+
+Multiplying out the probabilities: 0.15*0.25*0.4*0.5 = 0.0075
+
+0.0075

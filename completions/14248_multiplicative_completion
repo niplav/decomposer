@@ -1,0 +1,12 @@
+Necessary factors:
+1. Joe Biden is alive and in reasonable health by January 1, 2024.
+2. Biden expresses his intent to run for president in the 2024 election.
+3. There is no major scandal or controversy involving Joe Biden leading up to this date.
+4. There is no stronger Democratic competitor who has declared their intent and is more favored by the prediction markets.
+
+1. P(Joe Biden is alive and in reasonable health by January 1, 2024)=0.90
+2. P(Biden expresses his intent to run for president in the 2024 election|Joe Biden is alive and in reasonable health by January 1, 2024)=0.75
+3. P(There is no major scandal or controversy involving Joe Biden leading up to this date|Biden expresses his intent to run, Joe Biden is alive and in reasonable health)=0.85
+4. P(There is no stronger Democratic competitor who has declared their intent and is more favored by the prediction markets|No scandal, Biden intends to run, Biden healthy)=0.6
+Multiplying out the probabilities: 0.90*0.75*0.85*0.6=0.34425
+0.34425

@@ -1,0 +1,13 @@
+Necessary factors:
+1. AI-assisted writing technology continues to improve and becomes more widely used.
+2. Accredited US colleges or universities recognize the importance of this technology and its potential impact on the writing process.
+3. These institutions decide to develop a curriculum around AI-assisted writing.
+4. The course passes accreditation standards and becomes available for students.
+
+1. P(AI-assisted writing technology continues to improve and becomes more widely used) = 0.95
+2. P(Accredited US colleges or universities recognize the importance of this technology and its potential impact on the writing process | AI-assisted writing technology continues to improve and becomes more widely used) = 0.80
+3. P(These institutions decide to develop a curriculum around AI-assisted writing | Accredited US colleges or universities recognize the importance of this technology and its potential impact on the writing process, AI-assisted writing technology continues to improve and becomes more widely used) = 0.75
+4. P(The course passes accreditation standards and becomes available for students | These institutions decide to develop a curriculum around AI-assisted writing, Accredited US colleges or universities recognize the importance of this technology and its potential impact on the writing process, AI-assisted writing technology continues to improve and becomes more widely used) = 0.90
+
+Multiplying out the probabilities: 0.95*0.80*0.75*0.90 = 0.513
+0.513

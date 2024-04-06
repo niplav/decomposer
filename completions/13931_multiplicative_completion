@@ -1,0 +1,11 @@
+Necessary factors:
+1. A nuclear-armed nation or actor decides to conduct a nuclear test or an accident occurs 
+2. The nuclear weapon is successfully detonated
+
+1. P(A nuclear-armed nation or actor decides to conduct a nuclear test or an accident occurs)=0.012
+2. P(The weapon is successfully detonated|A nuclear-armed nation or actor decides to conduct a nuclear test or an accident occurs)=0.98
+
+Multiplying the probabilities obtains the final probabilistic estimate: 
+0.012*0.98=0.01176
+
+0.01176

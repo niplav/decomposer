@@ -1,0 +1,15 @@
+Necessary factors:
+1. The prevalence of the H5N1 virus increases significantly.
+2. The H5N1 virus evolves towards a more contagious strain.
+3. There is human-to-human transmission of the H5N1 virus.
+4. WHO is alerted about the severe changes to the H5N1 virus.
+5. WHO determines the situation as severe enough to declare it a PHEIC.
+
+1. P(The prevalence of the H5N1 virus increases significantly)=0.1
+2. P(The H5N1 virus evolves towards a more contagious strain|The prevalence of the H5N1 virus increases significantly)=0.05
+3. P(There is human-to-human transmission of the H5N1 virus|The H5N1 virus evolves towards a more contagious strain, The prevalence of the H5N1 virus increases significantly)=0.3
+4. P(WHO is alerted about the severe changes to the H5N1 virus|There is human-to-human transmission of the H5N1 virus, The H5N1 virus evolves towards a more contagious strain, The prevalence of the H5N1 virus increases significantly)=0.95
+5. P(WHO determines the situation as severe enough to declare it a PHEIC|WHO is alerted about the severe changes to the H5N1 virus, There is human-to-human transmission of the H5N1 virus, The H5N1 virus evolves towards a more contagious strain, The prevalence of the H5N1 virus increases significantly)=0.9
+Multiplying out the probabilities: 0.1*0.05*0.3*0.95*0.9=0.0012825
+
+0.0012825

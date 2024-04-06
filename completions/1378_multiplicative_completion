@@ -1,0 +1,13 @@
+Necessary factors:
+1. Israel's lunar mission launches successfully.
+2. The spacecraft makes it to the Moon.
+3. The actual soft landing on the Moon is successful.
+4. No other country soft-lands on the Moon before Israel.
+
+1. P(Israel's lunar mission launches successfully)=0.90
+2. P(The spacecraft makes it to the Moon|Israel's lunar mission launches successfully)=0.85
+3. P(The actual soft landing on the Moon is successful|The spacecraft makes it to the Moon, Israel's lunar mission launches successfully)=0.75
+4. P(No other country soft-lands on the Moon before Israel|The actual soft landing on the Moon is successful, The spacecraft makes it to the Moon, Israel's lunar mission launches successfully)=0.6
+
+Multiplying out the probabilities: 0.90*0.85*0.75*0.6=0.3645
+0.3645

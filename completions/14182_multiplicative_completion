@@ -1,0 +1,11 @@
+Necessary factors:
+1. Donald Trump is alive in 2023.
+2. Twitter allows Donald Trump's @realdonaldtrump account access in 2023.
+3. Donald Trump decides to tweet at least once on @realdonaldtrump in 2023.
+
+1. P(Donald Trump is alive in 2023)=0.98
+2. P(Twitter allows Donald Trump's @realdonaldtrump account access in 2023 | Donald Trump is alive in 2023)=0.45
+3. P(Donald Trump decides to tweet at least once on @realdonaldtrump in 2023 | Twitter allows Donald Trump's @realdonaldtrump account access in 2023, Donald Trump is alive in 2023)=0.95
+
+Multiplying out the probabilities: 0.98*0.45*0.95=0.41865
+0.41865

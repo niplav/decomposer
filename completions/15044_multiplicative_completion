@@ -1,0 +1,15 @@
+Necessary factors:
+1. Gültekin Uysal is selected as a candidate in the election. 
+2. There is high voter turnout. 
+3. Gültekin Uysal's party, the Democrat Party, gains significant popularity. 
+4. There are no significant controversies or scandals involving Gültekin Uysal or his party.
+5. Gültekin Uysal manages a successful campaign. 
+
+1. P(Gültekin Uysal is selected as a candidate in the election)=0.8 
+2. P(There is high voter turnout| Gültekin Uysal is selected as a candidate)=0.65
+3. P(Gültekin Uysal's party, the Democrat Party, gains significant popularity| high voter turnout, Gültekin Uysal is a candidate)=0.5
+4. P(There are no significant controversies or scandals involving Gültekin Uysal or his party| Democrat Party gains popularity, high voter turnout, Gültekin Uysal is a candidate)=0.7
+5. P(Gültekin Uysal manages a successful campaign| No significant controversy/scandal, Democrat Party gains popularity, high voter turnout, Gültekin Uysal is a candidate )=0.6
+Multiplying out the probabilities: 0.8*0.65*0.5*0.7*0.6=0.1092
+
+0.1092

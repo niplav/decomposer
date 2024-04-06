@@ -1,0 +1,11 @@
+Necessary factors:
+1. A bird flu subtype emerges that can infect minks.
+2. The new bird flu subtype spreads to at least one mink farm.
+3. Regulatory authorities decide to cull the infected minks.
+
+1. P(A bird flu subtype emerges that can infect minks)=0.6
+2. P(The new bird flu subtype spreads to at least one mink farm|A bird flu subtype emerges that can infect minks)=0.4
+3. P(Regulatory authorities decide to cull the infected minks|The new bird flu subtype spreads to at least one mink farm, A bird flu subtype emerges that can infect minks)=0.95
+
+Multiplying out the probabilities: 0.6*0.4*0.95=0.228
+0.228

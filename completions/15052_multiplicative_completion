@@ -1,0 +1,17 @@
+Necessary factors:
+1. Mustafa Sarıgül decides to run in the 2023 Presidential Election.
+2. The political party he represents supports him as a candidate.
+3. He runs a successful campaign that resonates with the majority of Turkish voters.
+4. No major scandal or health issue interferes with his campaign.
+5. He wins the majority votes in either of the two rounds of elections.
+   
+
+1. P(Mustafa Sarıgül decides to run in the 2023 Presidential Election) = 0.7
+2. P(The political party he represents supports him as a candidate | Mustafa Sarıgül decides to run in the 2023 Presidential Election) = 0.8
+3. P(He runs a successful campaign that resonates with the majority of Turkish voters | The political party he represents supports him as a candidate, Mustafa Sarıgül decides to run in the 2023 Presidential Election) = 0.6
+4. P(No major scandal or health issue interferes with his campaign | He runs a successful campaign that resonates with the majority of Turkish voters, The political party he represents supports him as a candidate, Mustafa Sarıgül decides to run in the 2023 Presidential Election) = 0.9
+5. P(He wins the majority votes in either of the two rounds of elections | No major scandal or health issue interferes with his campaign, He runs a successful campaign that resonates with the majority of Turkish voters, The political party he represents supports him as a candidate, Mustafa Sarıgül decides to run in the 2023 Presidential Election) = 0.5
+   
+Multiplying out the probabilities: 0.7*0.8*0.6*0.9*0.5=0.1512
+
+0.1512

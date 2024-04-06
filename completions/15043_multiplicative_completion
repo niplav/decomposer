@@ -1,0 +1,13 @@
+Necessary factors:
+1. Ali Babacan decides to run for 2023 Presidential Election.
+2. Ali Babacan's party, DEVA, secures enough public support.
+3. Ali Babacan himself is favored by the electorate.
+4. There is a fair and free election.
+
+1. P(Ali Babacan decides to run for 2023 Presidential Election) = 0.80
+2. P(DEVA secures enough public support|Ali Babacan decides to run for 2023 Presidential Election) = 0.40
+3. P(Ali Babacan is favored by the electorate| DEVA secures enough public support, Ali Babacan decides to run for 2023 Presidential Election) = 0.50
+4. P(There is a fair and free election| Ali Babacan is favored by the electorate, DEVA secures enough public support, Ali Babacan decides to run for 2023 Presidential Election) = 0.75
+
+Multiplying out the probabilities: 0.80*0.40*0.50*0.75 = 0.12
+0.12

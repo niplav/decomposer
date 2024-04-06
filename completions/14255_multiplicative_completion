@@ -1,0 +1,17 @@
+Necessary factors:
+1. Rishi Sunak remains a member of the Conservative Party.
+2. Rishi Sunak remains in good public and political standings.
+3. Rishi Sunak decides to run for party leadership.
+4. Rishi Sunak wins the party leadership election.
+5. The Conservative party holds the majority in the House of Commons by the end of 2023.
+6. The Conservative party decides to hold a leadership election before January 1, 2024.
+
+1. P(Rishi Sunak remains a member of the Conservative Party)=0.98
+2. P(Rishi Sunak remains in good public and political standings|Rishi Sunak remains a member of the Conservative Party)=0.85
+3. P(Rishi Sunak decides to run for party leadership|Rishi Sunak remains in good public and political standings, Rishi Sunak remains a member of the Conservative Party)=0.7
+4. P(Rishi Sunak wins the party leadership election|Rishi Sunak decides to run for party leadership, Rishi Sunak remains in good public and political standings, Rishi Sunak remains a member of the Conservative Party)=0.6
+5. P(The Conservative party holds the majority in the House of Commons by the end of 2023|Rishi Sunak wins the party leadership election, Rishi Sunak decides to run for party leadership, Rishi Sunak remains in good public and political standings, Rishi Sunak remains a member of the Conservative Party)=0.8
+6. P(The Conservative party decides to hold a leadership election before January 1, 2024|The Conservative party holds the majority in the House of Commons by the end of 2023, Rishi Sunak wins the party leadership election, Rishi Sunak decides to run for party leadership, Rishi Sunak remains in good public and political standings, Rishi Sunak remains a member of the Conservative Party)=0.6
+
+Multiplying out the probabilities: 0.98*0.85*0.7*0.6*0.8*0.6=0.160956
+0.160956

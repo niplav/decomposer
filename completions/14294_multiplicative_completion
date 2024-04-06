@@ -1,0 +1,18 @@
+Necessary factors:
+1. Chase Bank updates its security protocols.
+2. The updates are in response to the threat of social engineering attacks that can be attributed to LLMs.
+3. Chase Bank decides to inform customers of these updates.
+4. The information is delivered to customers through any of the mentioned channels (email, letter, or a notice when accessing online accounts).
+5. The notice specifically mentions both the security updates and the threat of LLM-based social engineering attacks.
+6. This all happens before 2024.
+
+1. P(Chase Bank updates its security protocols)=0.85
+2. P(The updates are in response to LLMs|Chase Bank updates its security protocols)=0.7
+3. P(Chase Bank informs customers|The updates are in response, Chase Bank updates its security protocols)=0.9
+4. P(Information is delivered through mentioned channels|Chase Bank informs customers, The updates are in response, Chase Bank updates its security protocols)=0.99
+5. P(The notice mentions both updates and LLM threat|Information is delivered through mentioned channels, Chase Bank informs customers, The updates are in response, Chase Bank updates its security protocols)=0.8
+6. P(This happens before 2024|The notice mentions both updates and LLM threat, Information is delivered through mentioned channels, Chase Bank informs customers, The updates are in response, Chase Bank updates its security protocols)=0.6
+
+Multiplying out the probabilities: 0.85*0.7*0.9*0.99*0.8*0.6=0.25711252
+
+0.25711252

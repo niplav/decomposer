@@ -1,0 +1,12 @@
+Necessary factors:
+1. The U.S government defaults on its debt before 2024.
+2. This default does not result in the dissolution or irreparable damage of the current political structure.
+3. The political fallout from this default leads to increased support for the Democratic party.
+4. The Democratic candidate's campaign successfully capitalizes on this support to secure more votes than their competitor.
+
+1. P(The U.S government defaults on its debt before 2024)=0.04
+2. P(This default does not result in the dissolution or irreparable damage of the current political structure|The U.S government defaults on its debt before 2024)=0.98
+3. P(The political fallout from this default leads to increased support for the Democratic party|This default does not result in the dissolution or irreparable damage of the current political structure, The U.S government defaults on its debt before 2024)=0.65
+4. P(The Democratic candidate's campaign successfully capitalizes on this support to secure more votes than their competitor|The political fallout from this default leads to increased support for the Democratic party, This default does not result in the dissolution or irreparable damage of the current political structure, The U.S government defaults on its debt before 2024)=0.6
+Multiplying out the probabilities: 0.04*0.98*0.65*0.6=0.015288
+0.015288

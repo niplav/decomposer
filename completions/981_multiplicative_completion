@@ -1,0 +1,11 @@
+Necessary factors:
+1. Political will to remove cannabis from Schedule I of the Controlled Substance Act.
+2. Passage of a bill, either standalone or embedded in another bill, declassifying cannabis from Schedule I.
+3. The President signing the bill into law or the bill passing the veto by receiving more than two-thirds of votes in both the House and Senate.
+
+1. P(Political will to remove cannabis from Schedule I of the Controlled Substance Act)=0.6
+2. P(Passage of a bill, either standalone or embedded in another bill, declassifying cannabis from Schedule I | Political will to remove cannabis from Schedule I of the Controlled Substance Act)=0.4
+3. P(The President signing the bill into law or the bill passing the veto by receiving more than two-thirds of votes in both the House and Senate | Passage of a bill, either standalone or embedded in another bill, declassifying cannabis from Schedule I)=0.9
+
+Multiplying out the probabilities: 0.6*0.4*0.9=0.216
+0.216

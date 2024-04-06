@@ -1,0 +1,9 @@
+Necessary factors:
+1. A current Supreme Court justice either dies, resigns, retires or is impeached.
+2. The succeeding nomination by the President is confirmed by the Senate.
+
+1. P(A current Supreme Court justice either dies, resigns, retires or is impeached) = 0.3
+2. P(The succeeding nomination by the President is confirmed by the Senate | A current Supreme Court justice either dies, resigns, retires or is impeached) = 0.85
+
+Multiplying out the probabilities: 0.3*0.85 = 0.255
+0.255

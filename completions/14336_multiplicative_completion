@@ -1,0 +1,13 @@
+Necessary factors:
+1. Labour Party appeals to a broader section of the populace
+2. Conservative Party imposes unpopular policies / faces internal instability
+3. External developments (e.g., economic, societal, international events) negatively impact perceptions of current government performance
+4. Interval until 1 January 2024 is devoid of any significant Labour scandal
+
+1. P(Labour Party appeals to a broader section of the populace)=0.4
+2. P(Conservative Party imposes unpopular policies / faces internal instability|Labour Party appeals to a broader section of the populace)=0.5
+3. P(External developments negatively impact perceptions of current government performance|Conservative Party imposes unpopular policies, Labour Party appeals to a broader section)=0.6
+4. P(Interval devoid of significant Labour scandal|External developments negatively impact perceptions, Conservative Party imposes unpopular policies, Labour Party appeals to a broader section)=0.7
+
+Multiplying out the probabilities: 0.4*0.5*0.6*0.7 = 0.084
+0.084

@@ -1,0 +1,15 @@
+Necessary factors:
+1. Pervin Buldan decides to run for the presidency.
+2. Pervin Buldan wins the nomination of the Peoples’ Democratic Party (HDP).
+3. The electoral environment is fair and competitive.
+4. Pervin Buldan receives broad coalition support.
+5. Significant fraction of the electorate votes for Pervin Buldan.
+
+1. P(Pervin Buldan decides to run for the presidency)=0.6
+2. P(Pervin Buldan wins the nomination of the Peoples’ Democratic Party (HDP)|Pervin Buldan decides to run for the presidency)=0.9
+3. P(The electoral environment is fair and competitive|Pervin Buldan wins the nomination of the Peoples’ Democratic Party (HDP), Pervin Buldan decides to run for the presidency)=0.5
+4. P(Pervin Buldan receives broad coalition support|The electoral environment is fair and competitive, Pervin Buldan wins the nomination of the Peoples’ Democratic Party (HDP), Pervin Buldan decides to run for the presidency)=0.6
+5. P(Significant fraction of the electorate votes for Pervin Buldan|Pervin Buldan receives broad coalition support, The electoral environment is fair and competitive, Pervin Buldan wins the nomination of the Peoples’ Democratic Party (HDP), Pervin Buldan decides to run for the presidency)=0.3
+Multiplying out the probabilities: 0.6*0.9*0.5*0.6*0.3=0.0486
+
+0.0486

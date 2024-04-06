@@ -1,0 +1,14 @@
+Necessary factors:
+1. The current president, who is from ZANU-PF party, maintains their position till the end of 2023.
+2. There are no internal conflicts within ZANU-PF that could lead to a change in party leadership.
+3. There are no successful significant external political challenges to the ZANU-PF party's leadership.
+4. No health or other unforeseen personal issues trigger a change in presidency from ZANU-PF party.
+
+1. P(The current president maintains their position till the end of 2023)=0.8
+2. P(No internal conflicts within ZANU-PF|The current president maintains their position till the end of 2023)=0.85
+3. P(No successful political challenges to ZANU-PF|No internal conflicts within ZANU-PF, The current president maintains their position till the end of 2023)=0.85
+4. P(No health or other unforeseen personal issues causing change in presidency|No successful political challenges to ZANU-PF, No internal conflicts within ZANU-PF, The current president maintains their position till the end of 2023)=0.95
+
+Multiplying out the probabilities: 0.8*0.85*0.85*0.95=0.5484625
+
+0.5484625

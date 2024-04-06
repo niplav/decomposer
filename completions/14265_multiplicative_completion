@@ -1,0 +1,15 @@
+Necessary factors:
+1. The global economy remains stable.
+2. No severe regulatory restrictions on Bitcoin are imposed by major economies.
+3. There is no catastrophic failure of the Bitcoin network.
+4. Bitcoin market participation continues to grow or at least remain stable.
+
+Conditional probabilities:
+1. P(The global economy remains stable)=0.8
+2. P(No severe regulatory restrictions on Bitcoin are imposed by major economies|The global economy remains stable)=0.7
+3. P(There is no catastrophic failure of the Bitcoin network|The global economy remains stable, No severe regulatory restrictions on Bitcoin are imposed by major economies)=0.98
+4. P(Bitcoin market participation continues to grow or remain stable|There is no catastrophic failure of the Bitcoin network, No severe regulatory restrictions on Bitcoin are imposed by major economies, The global economy remains stable)=0.9
+
+P(Q) = P(X₁) * P(X₂|X₁) * P(X₃|X₁, X₂) * P(X₄|X₁, X₂, X₃) = 0.8 * 0.7 * 0.98 * 0.9 = 0.491616
+
+0.491616

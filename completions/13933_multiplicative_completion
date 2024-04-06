@@ -1,0 +1,13 @@
+Necessary factors:
+1. A conflict escalates to war where one or more parties possess nuclear weapons.
+2. Nuclear escalation - a decision is made to use nuclear weapons in the conflict.
+3. Successful deployment - the nuclear weapon is successfully deployed without interception.
+4. Impact and lethality - the deployed nuclear weapon successfully detonates in a populated area.
+
+1. P(A conflict escalates to war where one or more parties possess nuclear weapons)=0.1
+2. P(Nuclear escalation| A conflict escalates to war where one or more parties possess nuclear weapons)=0.05
+3. P(Successful deployment|Nuclear escalation, A conflict escalates to war where one or more parties possess nuclear weapons)=0.9
+4. P(Impact and lethality|Successful deployment, Nuclear escalation, A conflict escalates to war where one or more parties possess nuclear weapons)=0.95
+
+Multiplying out the probabilities 0.1*0.05*0.9*0.95=0.004275.
+0.004275
