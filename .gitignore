@@ -1,0 +1,5 @@
+.env
+iqisa.py
+metaculus.py
+completions/
+__pycache__
